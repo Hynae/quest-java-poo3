@@ -3,8 +3,7 @@ public abstract class Bird {
     // attributs  
     private String name;  
     private int age;
-  
-    // constructeurs  
+    
     public Bird(String name) {  
         this.name = name;  
         this.age = 0;  
